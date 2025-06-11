@@ -28,7 +28,7 @@ As a data analyst and aspiring data scientist, I thrive on turning raw data into
 
 You can download my full resume here:
 
-[Download Resume (PDF)](https://github.com/zahra-ynp/Resume/blob/main/ZahraYounesPour_CV.pdf)
+[Download Resume (PDF)](https://github.com/zahra-ynp/zahra-ynp/blob/main/ZahraYounesPour_CV_Jun2025.pdf)
 
 
 ---
