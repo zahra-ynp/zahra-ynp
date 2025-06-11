@@ -1,6 +1,7 @@
 # Hi there, I'm Zahra Younes Pour Langaroudi! 👋
 
 Welcome to my GitHub profile!
+
 🚀 Passionate about data, driven by insight.  
 As a data analyst and aspiring data scientist, I thrive on turning raw data into clear stories and informed decisions. With a background in computer engineering and ongoing graduate studies in AI, I'm eager to tackle real-world challenges through data-driven solutions.
 
