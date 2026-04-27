@@ -9,7 +9,6 @@ As a data analyst and aspiring data scientist, I thrive on turning raw data into
 
 ## About Me
 
-- **Location:** Trieste, Italy
 - **Education:**
   - MSc in Data Science and Artificial Intelligence (2024–present), University of Trieste
   - BSc in Computer Engineering, Amirkabir University of Technology
